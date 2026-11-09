@@ -1,0 +1,14 @@
+{
+  "com.delta.airplayreceiver": {
+    "title": "AirCast: AirPlay Phone to TV",
+    "package": "com.delta.airplayreceiver",
+    "description": "Turn your Android TV into a powerful screen mirroring receiver with AirCast.\n\nAirCast allows you to mirror iPhone to Android TV and cast videos, photos, music, and games wirelessly from your iOS devices. This easy-to-use screen mirroring and TV casting app supports AirPlay-compatible streaming, allowing you to display your iPhone or iPad screen on a larger TV without cables.\n\nWhether you're watching videos, sharing photos, or presenting content, AirCast makes casting from iPhone to TV simple and reliable. \n\nFeatures\n\ud83d\udcf1 Mirror iPhone to Android TV\nEnjoy stable screen mirroring from iPhone to Android TV with smooth playback and high-definition display.\n\ud83c\udfac Cast Videos, Photos & Music\nEasily cast videos, photos, and music from iPhone to TV for a better viewing and listening experience.\n\u26a1 Fast Wi",
+    "icon": "/icons/com.delta.airplayreceiver.png"
+  },
+  "com.spotify.music": {
+    "title": "Spotify: Music and Podcasts",
+    "package": "com.spotify.music",
+    "description": "Discover music, podcasts, and audiobooks you'll love with Spotify. Stream millions of songs and podcast titles, explore personalized recommendations, create playlists, and listen across your devices. Whether you're looking for a music streaming app, podcast app, audiobook app, playlist creator, or personalized listening experience, Spotify brings your favorite audio to you.\n\nSPOTIFY FREE\n\nSpotify Free is more than a music player. Discover new music, stream podcasts, explore personalized playlists, and enjoy audio entertainment designed around your taste.\n\u2022 Stream millions of songs and podcasts for free\n\u2022 Discover personalized playlists and recommendations\n\u2022 Follow along to lyrics of songs \n\u2022 Create, manage, and share playlists\n\u2022 Explore new artists, albums, and releases\n\u2022 Follow podcasts a",
+    "icon": "/icons/com.spotify.music.jpg"
+  }
+}

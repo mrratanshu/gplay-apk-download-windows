@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  gplay-downloader:
+    build: .
+    container_name: gplay-apk-downloader
+    restart: unless-stopped
+    ports:
+      - "5000:5000"
+    environment:
+      - PORT=5000
+      - HOST=0.0.0.0
+      - LOG_LEVEL=INFO
+      # Uncomment to supply a token dispenser:
+      # - DISPENSER_URL=https://your-dispenser.example.com
+    volumes:
+      - gplay_auth:/root
+      - gplay_app_cache:/app/public/app
+
+volumes:
+  gplay_auth:
+  gplay_app_cache:

@@ -1,0 +1,38 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.log
+nohup.out
+analysis/
+server.log
+profile_test_results.json
+google5513f6207cd9118d.html
+auto_commit_apps.sh
+
+# Android Keystores & Keys
+*.keystore
+*.jks
+*.p12
+*.pem
+*.key
+
+# Downloaded Apps & Bundles
+*.apk
+*.apks
+*.xapk
+*.zip
+
+# Auth Caches & Profiles (if ever placed in workspace)
+.gplay*
+*auth*.json
+!blacklist.json
+
+# IDE & OS Artifacts
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini
+
