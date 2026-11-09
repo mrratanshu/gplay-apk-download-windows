@@ -132,7 +132,7 @@ Otherwise, you can simply click **Code → Download ZIP** on GitHub and extract 
 Using Git:
 ```powershell
 git clone --depth 1 https://github.com/mrratanshu/gplay-apk-download-windows.git
-cd gplay-apk-downloader
+cd gplay-apk-download-windows
 ```
 *(Or download and extract the ZIP file from GitHub into a folder).*
 
